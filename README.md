@@ -1,4 +1,4 @@
-# Task Management System (Full Stack)
+# Task Management System 
 
 This is a full-stack task management application built using modern web technologies. The application allows users to register, log in, and manage their tasks with real-time updates and a clean user interface.
 
